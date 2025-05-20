@@ -1,7 +1,7 @@
 # Advanced Data Analytics Project Using SQL
 
 ## Project Overview
-This project showcases advanced SQL techniques applied to a retail sales dataset to uncover insights related to sales trends, customer behavior, and product performance. It includes step-by-step data exploration, segmentation, and reporting logic structured for business intelligence applications.
+This project showcases advanced SQL techniques applied to a hypothetical retail sales dataset to uncover insights related to sales trends, customer behavior, and product performance. It includes step-by-step data exploration, segmentation, and reporting logic structured for business intelligence applications.
 
 Developed by **Mason Hollis**, this project leverages real-world SQL practices such as CTEs, window functions, and view creation to support data-driven decision-making.
 
